@@ -151,9 +151,13 @@ El cual contiene 4 carpetas (configuracion, Controller, model, view) juntoaun ar
 	<H2>model</H2>
 	<H5>La carpeta de model contiene el modelo de libro el cual Dentro de la clase Libro, se definen cuatro propiedades públicas:
 **$id: Identificador único del libro.**
+<br>
 **$titulo: El título del libro.**
+<br>
 **$autor: El autor del libro.**
+<br>
 **$editorial: La editorial que publicó el libro.**
+<br>
 	</H5>
 	<H5>El contructor recibe cuatro parámetros: $id, $titulo, $autor, y $editorial, y asigna esos valores a las propiedades correspondientes de la clase utilizando this.</H5>
 	<H2>view</H2>
