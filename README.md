@@ -141,9 +141,9 @@ http://localhost/libros/index.php?action=verVarios&cantidad=3
 
 ## 📂 Estructura del Proyecto  
 
-El proyecto contiene el folder pricipal llamado:
+<H4>El proyecto contiene el folder pricipal llamado:
 libro
-El cual contiene 4 carpetas (configuracion, Controller, model, view) juntoaun archivo inde.php y un archivo SQL para la recreacion de las tablas con los datos de la B.D. utilizada en este proyecto
+El cual contiene 4 carpetas (configuracion, Controller, model, view) juntoaun archivo inde.php y un archivo SQL para la recreacion de las tablas con los datos de la B.D. utilizada en este proyecto</H4>
 	<H2>configuracion</H2>
 	<H5>La carpeta de configuración contiene un archivo .php el cual se encarga de la conexión entre la pagina web y la base de datos en phpMyAdmin con el nombre de libreria y con una tabla llamada libros donde se almacenan los libros de la base de datos</H5>
 	<H2>Controller</H2>
