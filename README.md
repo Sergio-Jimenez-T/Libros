@@ -150,15 +150,12 @@ El cual contiene 4 carpetas (configuracion, Controller, model, view) juntoaun ar
 	<H5>La carpeta Controller es la encargada de contener el controlador de nuestra ppagina web el cual se encarga de llevar a cabo las consultas en la B.D. de los id o de la cantidad de libros solicitados por el usuario desde la URL de la pagina</H5>
 	<H2>model</H2>
 	<H5>La carpeta de model contiene el modelo de libro el cual Dentro de la clase Libro, se definen cuatro propiedades públicas:
-
-$id: Identificador único del libro.
-
-$titulo: El título del libro.
-
-$autor: El autor del libro.
-
-$editorial: La editorial que publicó el libro.
-ademas de que el contructor recibe cuatro parámetros: $id, $titulo, $autor, y $editorial, y asigna esos valores a las propiedades correspondientes de la clase utilizando this.</H5>
+**$id: Identificador único del libro.**
+**$titulo: El título del libro.**
+**$autor: El autor del libro.**
+**$editorial: La editorial que publicó el libro.**
+	</H5>
+	<H5>El contructor recibe cuatro parámetros: $id, $titulo, $autor, y $editorial, y asigna esos valores a las propiedades correspondientes de la clase utilizando this.</H5>
 	<H2>view</H2>
 	<H5>La carpeta view contiene todas las vistas de las tablas dependiendo de el tipo de consulta que se va a realizar ademas de que tambien ya contiene unos estilos encargados de hacer la tabla un poco mas amigable a la vista del usuario</H5>
 ---
